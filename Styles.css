@@ -1,0 +1,18 @@
+Selector {
+	Property: value;
+}	
+
+body{
+	background-image: url(rome.jpg);
+backgrouns-size: cover;	
+}
+
+ol{
+	color:  white;
+}
+
+h1{
+	color: purple;
+	text-align: center;
+	border: 5px	solid darkred;
+}
